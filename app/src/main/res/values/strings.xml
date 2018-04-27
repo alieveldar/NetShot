@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Netshot</string>
+    <string name="shutdown_button">Shutdown</string>
+</resources>

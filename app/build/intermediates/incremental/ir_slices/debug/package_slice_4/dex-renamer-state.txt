@@ -1,0 +1,4 @@
+#Fri Apr 27 19:57:23 MSK 2018
+base.0=/mnt/547B86916A38A578/ASPJ/Netshot/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
