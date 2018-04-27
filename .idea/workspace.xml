@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07576a62-5248-4921-a86c-1cd6a284d1aa" name="Default" comment="">
+    <list default="true" id="07576a62-5248-4921-a86c-1cd6a284d1aa" name="Default" comment="#First commit2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/netshot/net/modus/netshot" afterPath="$PROJECT_DIR$/app/src/main/java/netshot/net/modus/netshot" />
     </list>
@@ -2335,7 +2335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524849138746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#First commit2">
+      <created>1524849834950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524849834950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2377,7 +2384,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="#First commit" />
+    <MESSAGE value="#First commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="#First commit2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
